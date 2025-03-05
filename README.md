@@ -1,6 +1,3 @@
-Got it! You want **everything** inside the **first markdown block** so that the entire **README** is structured properly. Below is the updated **Markdown format** for your **Sentiment Analysis** project, with everything inside a single markdown block:
-
----
 
 ### **📌 Sentiment Analysis of Amazon Customer Reviews**  
 
